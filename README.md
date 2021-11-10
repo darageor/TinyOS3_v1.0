@@ -53,3 +53,4 @@ for anything serious, as well as the GDB debugger.
 In v1.0 we implemented the multithread capabilities of TinyOS as well as the Multilevel Feedback Queue.
 You can find the vocalization of the project in the pdf file below.
 
+[HRY-202 εκφώνηση project.pdf](https://github.com/darageor/TinyOS3_v1.0/files/7515639/HRY-202.project.pdf)
