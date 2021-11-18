@@ -2,7 +2,9 @@
 
 Tinyos3 was a team project for the lesson "operating systems" in which we extended the capabilities that the original (given) TinyOS3 could do given from the lecturer Vasilhs Samoladas. You can find the original in the following link(https://github.com/vsamtuc/tinyos3).
 
-TinyOS is a very small operating system, built on top of a simple-minded virtual machine, whose purpose is
+The README of Mr. Samoladas repository is the following:
+
+"TinyOS is a very small operating system, built on top of a simple-minded virtual machine, whose purpose is
 purely educational. It is not related in any way to the well-known operating system for wireless sensors,
 but since it was first conceived in 2003, there was a name collision that I have not yet resolved.
 This code (in its long history) has been used for many years to teach the Operating Systems course
@@ -48,7 +50,10 @@ calls, in particular signal streams). Any recent (last few years) version of Lin
 
 Working with the code, at the basic level, requires a recent GCC compiler (with support for C11). The
 standard packages `doxygen` and `valgrind` with their dependencies (e.g., `graphviz`) are also needed 
-for anything serious, as well as the GDB debugger.
+for anything serious, as well as the GDB debugger."
+
+
+### Extra implementations
 
 In v1.0 we implemented the multithread capabilities of TinyOS as well as the Multilevel Feedback Queue.
 You can find the vocalization of the project in the pdf file below.
